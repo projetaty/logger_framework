@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+# !/usr/bin/python3
 # encoding: utf-8
 '''
 Created on 15 de dez de 2020
@@ -12,8 +12,9 @@ import time
 
 def worker(arg):
     while not arg['stop']:
-        logging.debug('Hi from myfunc')
-        time.sleep(0.5)
+        logging.debug('Hi from method worker')
+        print(logging)
+        time.sleep(1.5)
 
 def main():
     logging.basicConfig(level=logging.DEBUG, format='%(relativeCreated)6d %(threadName)s %(message)s')
@@ -23,7 +24,8 @@ def main():
     while True:
         try:
             logging.debug('Hello from main')
-            time.sleep(0.75)
+            print(logging)
+            time.sleep(1.75)
         except KeyboardInterrupt:
             info['stop'] = True
             break

@@ -6,9 +6,9 @@ Created on 15 de dez de 2020
 from utils.SingletonLogger import LoggerManager
 import logging
 
-class TestMyLogger(object):
+class DummyTestMyLogger(object):
     
-    _name = "test.mylogger"
+    _name = "dummmy.test.mylogger"
     
     def __init__(self):
         try:
@@ -44,7 +44,7 @@ class TestMyLogger(object):
 
 t1 = None
 try:
-    t1 = TestMyLogger()
+    t1 = DummyTestMyLogger()
     t1.logger.info("objeto da classe TestMyLogger criado...")
     t1.do("faz algum trein")
 except:
