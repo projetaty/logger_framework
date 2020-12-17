@@ -5,8 +5,8 @@ Created on 17 de dez. de 2020
 @author: Sandro Regis Cardoso | Software Engineer
 @email: projetaty@gmail.com
 @module: logger_multi_modules.test.TestLogMultModules
-
 '''
+
 import unittest
 from unittest import TestCase
 
