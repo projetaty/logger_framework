@@ -15,27 +15,9 @@ import logging
 
 class TestCase(TestCase):
 
-    """def setUp(self):
-        try:
-            pass
-        except:
-            raise Exception"""
-
-    def tearDown(self):
-        unittest.TestCase.tearDown(self)
-
-
-class TestLogMultModules(TestCase):
-    
-    _name = "test.log.multmod"
-    _description = "Class to test mult-modules logger"
-    
-    
     def setUp(self):
         try:
-            # create logger with 'spam_application'
             self.logger = LoggerManager.getLogger("LoggerFrameworkApp")
-            #self.logger.setLevel(logging.DEBUG)
             
             # create console handler with a higher log level
             objFileHandler = logging.FileHandler('../log/test_log_mult_modules.log')
@@ -79,7 +61,15 @@ class TestLogMultModules(TestCase):
         except:
             self.logger.exception(Exception)
             raise Exception
+
+    def tearDown(self):
+        unittest.TestCase.tearDown(self)
+
+
+class TestLogMultModules(TestCase):
     
+    _name = "test.log.multmod"
+    _description = "Class to test mult-modules logger"
     
     def testLoggerDebugLevel(self):
         """
