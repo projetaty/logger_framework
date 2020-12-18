@@ -43,17 +43,17 @@ class FactoryLoggerType(object):
             raise Exception
         
         
-    def __templateMultThreads(self, logName = None, logLevel = None, logFile = None, logPath = None):
-        """
-        @description: Template method to create logging object for mult thread programming 
-        @author: Sandro Regis Cardoso
-        @TODO: Implement new types of logger
-        @return: object
-        """
-        try:
-            pass
-        except:
-            raise Exception
+    #def __templateMultThreads(self, logName = None, logLevel = None, logFile = None, logPath = None):
+    #    """
+    #    @description: Template method to create logging object for mult thread programming 
+    #    @author: Sandro Regis Cardoso
+    #    @TODO: Implement new types of logger
+    #    @return: object
+    #    """
+    #    try:
+    #        pass
+    #    except:
+    #        raise Exception
     
     
     def createLogger(self, loggerType : str) -> logging:
@@ -76,18 +76,18 @@ class FactoryLoggerType(object):
                         raise Exception
                 
                 
-                def getMultThreadsLogger(self, logName : str, logLevel : logging,  logFile : str, logPath : str) -> logging:
-                    """
-                    @author: Sandro Regis Cardoso
-                    @TODO: 
-                    @return: object
-                    """
-                    try:
-                        pass
-                        #multThreads = self.__templateMultThreads(logName, logLevel, logFile, logPath)
-                        #return
-                    except:
-                        raise Exception
+                #def getMultThreadsLogger(self, logName : str, logLevel : logging,  logFile : str, logPath : str) -> logging:
+                #    """
+                #    @author: Sandro Regis Cardoso
+                #    @TODO: 
+                #    @return: object
+                #    """
+                #    try:
+                #        pass
+                #        #multThreads = self.__templateMultThreads(logName, logLevel, logFile, logPath)
+                #        return
+                #    except:
+                #        raise Exception
             
             if loggerType == "multmodules_log":
                 return FactoryGenericLogger()
