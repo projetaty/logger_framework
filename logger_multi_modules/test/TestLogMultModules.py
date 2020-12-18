@@ -97,6 +97,7 @@ class TestLogMultModules(TestCase):
             self.logger.setLevel(logging.WARNING)
             self.logger.warning('\tLogging Warning message')
         except:
+            self.logger.exception(Exception)
             raise Exception
     
     
@@ -111,6 +112,7 @@ class TestLogMultModules(TestCase):
             self.logger.setLevel(logging.INFO)
             self.logger.info("\tLogging Info Message")
         except:
+            self.logger.exception(Exception)
             raise Exception
     
     
@@ -125,6 +127,7 @@ class TestLogMultModules(TestCase):
             self.logger.setLevel(logging.CRITICAL)
             self.logger.critical('\tLogging Critical message')
         except:
+            self.logger.exception(Exception)
             raise Exception
     
     
@@ -139,6 +142,7 @@ class TestLogMultModules(TestCase):
             self.logger.setLevel(logging.ERROR)
             self.logger.error('\tLogging Error message')
         except:
+            self.logger.exception(Exception)
             raise Exception
 
     def tearDown(self):
