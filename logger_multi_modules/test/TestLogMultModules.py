@@ -11,53 +11,18 @@ import unittest
 from unittest import TestCase
 
 from utils.SingletonLogger import LoggerManager
+from utils.LoggerFactory import FactoryLoggerType
 import logging
 
 class TestCase(TestCase):
 
     def setUp(self):
         try:
-            self.logger = LoggerManager.getLogger("LoggerFrameworkApp")
-            
-            # create console handler with a higher log level
-            objFileHandler = logging.FileHandler('../log/test_log_mult_modules.log')
-            objFileHandler.setLevel(logging.DEBUG)
-            with open('../log/test_log_mult_modules.log', 'r') as f:
-                res = f.read()
-                self.assertNotEqual(res, None)
-            
-            # create file handler whith objErrorHandler logs with debug messages
-            objErrorHandler = logging.StreamHandler()
-            objErrorHandler.setLevel(logging.ERROR)
-            
-            # create file handler whith objErrorHandler logs with warning messages
-            objWarningHandler = logging.StreamHandler()
-            objWarningHandler.setLevel(logging.WARNING)
-            
-            # create file handler whith objInfoHandler logs with info messages
-            objInfoHandler = logging.StreamHandler()
-            objInfoHandler.setLevel(logging.INFO)
-            
-            # create file handler whith objCriticalHandler logs with critical messages
-            objCriticalHandler = logging.StreamHandler()
-            objCriticalHandler.setLevel(logging.CRITICAL)
-            
-            # create formatter and add it to the handlers
-            logFormat = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-            objFileHandler.setFormatter(logFormat)
-            objErrorHandler.setFormatter(logFormat)
-            objWarningHandler.setFormatter(logFormat)
-            objInfoHandler.setFormatter(logFormat)
-            objCriticalHandler.setFormatter(logFormat)
-            
-            # add the handlers to the logger
-            self.logger.addHandler(objFileHandler)
-            #self.logger.addHandler(objInfoHandler)
-            #self.logger.addHandler(objWarningHandler)
-            #self.logger.addHandler(objCriticalHandler)
-            
-            #self.logger.msg("TestCase running.......")
-            
+            logType = FactoryLoggerType()
+            res = logType.createLogger("multmodules_log")
+            self.logger = res.getMultModulesLogger(logName = "Logger_Factory", logLevel = logging.INFO, 
+                                              logFile = "test_factory.log", logPath = "../log/")
+            return self.logger
         except:
             self.logger.exception(Exception)
             raise Exception
@@ -96,6 +61,7 @@ class TestLogMultModules(TestCase):
         try:
             self.logger.setLevel(logging.WARNING)
             self.logger.warning('\tLogging Warning message')
+            self.tearDown()
         except:
             self.logger.exception(Exception)
             raise Exception
