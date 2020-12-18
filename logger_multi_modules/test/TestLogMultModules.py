@@ -61,7 +61,6 @@ class TestLogMultModules(TestCase):
         try:
             self.logger.setLevel(logging.WARNING)
             self.logger.warning('\tLogging Warning message')
-            self.tearDown()
         except:
             self.logger.exception(Exception)
             raise Exception
