@@ -10,8 +10,7 @@ Created on 17 de dez. de 2020
 import unittest
 from unittest import TestCase
 
-from utils.SingletonLogger import LoggerManager
-from utils.LoggerFactory import FactoryLoggerType
+from utils.FactoryLogger import FactoryLoggerType
 import logging
 
 class TestCase(TestCase):
