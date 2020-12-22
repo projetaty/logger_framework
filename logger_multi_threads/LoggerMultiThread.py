@@ -15,6 +15,7 @@ def worker(arg):
         logging.debug('Hi from method worker')
         time.sleep(1.5)
 
+
 def main():
     logging.basicConfig(level=logging.DEBUG, format='%(relativeCreated)6d %(threadName)s %(message)s')
     info = {'stop': False}

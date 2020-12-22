@@ -15,6 +15,8 @@ import logging
 
 class TestCase(TestCase):
 
+    logger = None
+    
     def setUp(self):
         try:
             logType = FactoryLoggerType()
@@ -34,6 +36,12 @@ class TestLogMultModules(TestCase):
     
     _name = "test.log.multmod"
     _description = "Class to test mult-modules logger"
+    
+    """def setUp(self):
+        try:
+            unittest.TestCase.setUp(self)
+        except:
+            raise Exception"""
     
     def testLoggerDebugLevel(self):
         """
@@ -93,7 +101,6 @@ class TestLogMultModules(TestCase):
         except:
             self.logger.exception(Exception)
             raise Exception
-    
     
     def testLoggerErrorLevel(self):
         """

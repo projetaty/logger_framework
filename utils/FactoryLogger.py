@@ -28,7 +28,7 @@ class FactoryLoggerType(object):
         """
         try:
             logger = logging.getLogger("%s.%s" %(logName, __name__))
-            formatter = logging.Formatter("%(asctime)s | %(name)s  \t\t| %(levelname)s \t\t\t| %(message)s")
+            formatter = logging.Formatter("%(asctime)s \t| %(name)s  \t\t| %(levelname)s \t\t\t| %(message)s")
             fileHandler = logging.FileHandler("%s%s" %(logPath, logFile))
             fileHandler.setFormatter(formatter)
             
@@ -41,8 +41,8 @@ class FactoryLoggerType(object):
             return logger
         except:
             raise Exception
-        
-        
+    
+    
     #def __templateMultThreads(self, logName = None, logLevel = None, logFile = None, logPath = None):
     #    """
     #    @description: Template method to create logging object for mult thread programming 
