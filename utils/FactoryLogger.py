@@ -97,34 +97,3 @@ class FactoryLoggerType(object):
         except:
             raise Exception
         
-    
-
-
-"""
-def main():
-    _name = "main"
-    
-    try:
-        logType = FactoryLoggerType()
-        res = logType.createLogger(LOGGER_TYPES[0])
-        logger = res.getMultModulesLogger(logName = "Logger_Factory", logLevel = logging.INFO, 
-                                          logFile = "test_factory.log", logPath = "../log/")
-        print("%s" %(type(logger)))
-        logger.info("Info message logging.....")
-        logger.setLevel(logging.DEBUG)
-        logger.debug("Debug message logging.....")
-        logger.setLevel(logging.WARNING)
-        logger.warning("Warning message logging.....")
-        logger.setLevel(logging.CRITICAL)
-        logger.critical("Critical message logging.....")
-        logger.setLevel(logging.ERROR)
-        logger.error("Error message logging.....")
-    except:
-        raise BaseException
-    
-if __name__ == "__main__":
-    main()
-"""
-
-
-
