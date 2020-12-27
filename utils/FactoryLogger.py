@@ -26,9 +26,10 @@ class FactoryLoggerType(object):
         @TODO: Implement new types of logger
         @return: object
         """
+        
         try:
-            logger = logging.getLogger("%s.%s" %(logName, __name__))
-            formatter = logging.Formatter("%(asctime)s \t| %(name)s  \t\t| %(levelname)s \t\t\t| %(message)s")
+            logger = logging.getLogger("%s" %(logName))
+            formatter = logging.Formatter("%(asctime)s \t| %(name)s  \t\t| %(levelname)s |\t%(message)s")
             fileHandler = logging.FileHandler("%s%s" %(logPath, logFile))
             fileHandler.setFormatter(formatter)
             
@@ -38,6 +39,8 @@ class FactoryLoggerType(object):
             logger.setLevel(logLevel)
             logger.addHandler(fileHandler)
             logger.addHandler(streamHandler)
+            
+            #logger.info("%s.%s.%s" %(self._name, __name__, logLevel))
             return logger
         except:
             raise Exception
