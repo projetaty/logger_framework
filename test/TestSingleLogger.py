@@ -1,15 +1,17 @@
 
 from unittest import TestCase
-from logger_multi_modules.LoggerMultModules import LoggerMultModules
+from utils.SingletonLogger import LoggerManager
+import logging
+from logger_multi_modules.SingleLogger import SingleLogger
 
-class TestLoggerMultModules(TestCase):
+class TestSingleLogger(TestCase):
     
-    _name = "testlogger.multmodules"
+    _name = "test.singlelogger"
     
     def setUp(self):
         try:
-            self.log = LoggerMultModules("%s.%s" %("Logging Global", __name__), 0, "test2_logger_mult_modules.log",  "../log/")
-            self.assertIsInstance(self.log, LoggerMultModules)
+            self.log = SingleLogger(("%s.%s" %("Single Logging", __name__)), 0, "unified_logger.log", "../log/global/")
+            self.assertIsInstance(self.log, SingleLogger, "Singleton Logger criado com sucesso")
         except:
             raise Exception
     
@@ -48,10 +50,8 @@ class TestLoggerMultModules(TestCase):
     
     def testGetErrorLevel(self):
         try:
-            self.logError = LoggerMultModules("%s.%s" %("Logging Error", __name__), 0, "error_logger_mult_modules.err",  "../err/")
-            self.assertIsInstance(self.log, LoggerMultModules)
-            self.logError.getErrorlLevel()
-            self.logError.logger.error("Executed Log in Error Level")
+            self.log.getErrorlLevel()
+            self.log.logger.error("Executed Log in Error Level")
         except:
             raise Exception
 
@@ -63,12 +63,7 @@ class TestLoggerMultModules(TestCase):
         return TestCase.doCleanups(self)
 
 
-
-"""def main():
-    unittest.main()
-
-if __name__ == '__main__':
-    main()"""
-
-
+objA    =   TestSingleLogger()
+objA.setUp()
+objA.testGetCriticalLevel()
 
