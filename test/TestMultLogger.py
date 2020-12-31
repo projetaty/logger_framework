@@ -1,6 +1,6 @@
 
 from unittest import TestCase
-from logger_multi_modules.LoggerMultModules import LoggerMultModules
+from logger_multi_modules.MultLoggers import MultLoggers
 import logging
 
 class TestMultLogger(TestCase):
@@ -11,10 +11,10 @@ class TestMultLogger(TestCase):
         TestCase.setUp(self)
     
         
-    def __getLoggerInstance(self, logName : str, logLevel : logging, fileName : str, filePath : str) -> LoggerMultModules:
+    def __getLoggerInstance(self, logName : str, logLevel : logging, fileName : str, filePath : str) -> MultLoggers:
         try:
-            log = LoggerMultModules("%s %s.%s" %("Logging ", logName, __name__), logLevel, fileName,  filePath)
-            self.assertIsInstance(log, LoggerMultModules)
+            log = MultLoggers("%s %s.%s" %("Logging ", logName, __name__), logLevel, fileName,  filePath)
+            self.assertIsInstance(log, MultLoggers)
             return log
         except:
             raise Exception
@@ -59,7 +59,6 @@ class TestMultLogger(TestCase):
         except:
             raise Exception
     
-    
     def testGetErrorLevel(self):
         try:
             log = self.__getLoggerInstance("Error", logging.ERROR, "test_error_logger.err", "../log/error/")
@@ -68,7 +67,6 @@ class TestMultLogger(TestCase):
             del(log)
         except:
             raise Exception
-
 
     def tearDown(self):
         TestCase.tearDown(self)

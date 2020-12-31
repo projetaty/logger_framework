@@ -40,3 +40,713 @@
 2020-12-28 02:59:56,218 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
 2020-12-28 02:59:56,218 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
 2020-12-28 02:59:56,218 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 05:49:07,764 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 05:49:07,780 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 05:49:07,847 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 05:49:07,847 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 05:49:07,848 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 05:49:07,848 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 05:49:07,851 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-30 05:49:07,851 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-30 05:49:07,851 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-30 05:49:07,852 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-30 05:49:07,852 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-30 05:49:07,852 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-30 05:49:07,853 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 05:49:07,853 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 05:49:07,853 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 05:49:07,853 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 05:49:07,854 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 05:49:07,854 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 05:49:07,854 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 05:49:07,854 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 05:49:07,856 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-30 05:49:07,856 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-30 05:49:07,856 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-30 05:49:07,856 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-30 05:49:07,856 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-30 05:49:07,857 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-30 05:49:07,857 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-30 05:49:07,857 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-30 05:49:07,857 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-30 05:49:07,857 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-30 05:49:07,859 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 05:49:07,859 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 05:49:07,859 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 05:49:07,859 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 05:49:07,859 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 05:49:07,859 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 05:49:07,860 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 05:49:07,860 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 05:49:07,860 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 05:49:07,860 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 05:49:07,860 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 05:49:07,860 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 05:53:26,595 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 05:53:26,599 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 05:53:26,610 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-30 05:53:26,610 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-30 05:53:26,611 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-30 05:53:26,611 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-30 05:53:26,613 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-30 05:53:26,613 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-30 05:53:26,613 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-30 05:53:26,613 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-30 05:53:26,613 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-30 05:53:26,613 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-30 05:53:26,614 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 05:53:26,614 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 05:53:26,614 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 05:53:26,614 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 05:53:26,615 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 05:53:26,615 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 05:53:26,615 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 05:53:26,615 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 05:53:26,616 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 05:53:26,616 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 05:53:26,616 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 05:53:26,616 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 05:53:26,616 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 05:53:26,617 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 05:53:26,617 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 05:53:26,617 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 05:53:26,617 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 05:53:26,617 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 05:53:26,618 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 05:53:26,618 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 05:53:26,618 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 05:53:26,618 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 05:53:26,618 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 05:53:26,618 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 05:53:26,618 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 05:53:26,618 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 05:53:26,618 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 05:53:26,618 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 05:53:26,618 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 05:53:26,618 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 06:11:21,358 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 06:11:21,373 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 06:11:21,409 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-30 06:11:21,409 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-30 06:11:21,409 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-30 06:11:21,409 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-30 06:11:21,412 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-30 06:11:21,412 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-30 06:11:21,412 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-30 06:11:21,412 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-30 06:11:21,412 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-30 06:11:21,412 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-30 06:11:21,415 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 06:11:21,415 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 06:11:21,415 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 06:11:21,415 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-30 06:11:21,417 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 06:11:21,417 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 06:11:21,417 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 06:11:21,417 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-30 06:11:21,419 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 06:11:21,419 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 06:11:21,419 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 06:11:21,419 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 06:11:21,419 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-30 06:11:21,420 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 06:11:21,420 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 06:11:21,420 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 06:11:21,420 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 06:11:21,420 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-30 06:11:21,427 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 06:11:21,427 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 06:11:21,427 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 06:11:21,427 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 06:11:21,427 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 06:11:21,427 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-30 06:11:21,430 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 06:11:21,430 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 06:11:21,430 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 06:11:21,430 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 06:11:21,430 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-30 06:11:21,430 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 16:12:34,930 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 16:12:34,939 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 16:12:34,954 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 16:12:34,954 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 16:12:34,954 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 16:12:34,954 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 16:12:34,957 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 16:12:34,957 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 16:12:34,957 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 16:12:34,958 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 16:12:34,958 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 16:12:34,958 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 16:12:34,960 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 16:12:34,960 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 16:12:34,960 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 16:12:34,960 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 16:12:34,960 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 16:12:34,960 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 16:12:34,960 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 16:12:34,960 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 16:12:34,962 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 16:12:34,962 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 16:12:34,962 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 16:12:34,962 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 16:12:34,962 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 16:12:34,963 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 16:12:34,963 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 16:12:34,963 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 16:12:34,963 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 16:12:34,963 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 16:12:34,965 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 16:12:34,965 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 16:12:34,965 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 16:12:34,965 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 16:12:34,965 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 16:12:34,965 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 16:12:34,967 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 16:12:34,967 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 16:12:34,967 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 16:12:34,967 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 16:12:34,967 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 16:12:34,967 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:22:37,676 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:22:37,677 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:22:37,684 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:22:37,684 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:22:37,684 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:22:37,684 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:22:37,687 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:22:37,687 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:22:37,687 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:22:37,687 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:22:37,687 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:22:37,687 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:22:37,688 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:22:37,688 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:22:37,688 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:22:37,688 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:22:37,689 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:22:37,689 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:22:37,689 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:22:37,689 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:22:37,690 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:22:37,690 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:22:37,690 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:22:37,690 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:22:37,690 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:22:37,691 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:22:37,691 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:22:37,691 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:22:37,691 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:22:37,691 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:22:37,692 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:22:37,692 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:22:37,692 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:22:37,692 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:22:37,692 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:22:37,692 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:22:37,692 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:22:37,692 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:22:37,692 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:22:37,692 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:22:37,692 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:22:37,692 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:24:18,920 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:24:18,921 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:24:18,929 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:24:18,929 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:24:18,929 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:24:18,929 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:24:18,931 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:24:18,931 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:24:18,931 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:24:18,932 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:24:18,932 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:24:18,932 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:24:18,933 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:24:18,933 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:24:18,933 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:24:18,933 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:24:18,933 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:24:18,933 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:24:18,933 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:24:18,933 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:24:18,935 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:24:18,935 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:24:18,935 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:24:18,935 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:24:18,935 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:24:18,935 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:24:18,935 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:24:18,935 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:24:18,935 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:24:18,935 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:24:18,937 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:24:18,937 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:24:18,937 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:24:18,937 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:24:18,937 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:24:18,937 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:24:18,938 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:24:18,938 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:24:18,938 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:24:18,938 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:24:18,938 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:24:18,938 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:24:56,571 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:24:56,572 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:24:56,580 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:24:56,580 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:24:56,581 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:24:56,581 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:24:56,584 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:24:56,584 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:24:56,584 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:24:56,585 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:24:56,585 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:24:56,585 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:24:56,587 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:24:56,587 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:24:56,587 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:24:56,587 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:24:56,588 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:24:56,588 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:24:56,588 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:24:56,588 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:24:56,589 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:24:56,589 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:24:56,589 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:24:56,589 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:24:56,589 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:24:56,590 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:24:56,590 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:24:56,590 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:24:56,590 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:24:56,590 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:24:56,592 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:24:56,592 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:24:56,592 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:24:56,592 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:24:56,592 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:24:56,592 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:24:56,593 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:24:56,593 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:24:56,593 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:24:56,593 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:24:56,593 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:24:56,593 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:25:32,093 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:25:32,094 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:25:32,097 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:25:32,097 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:25:32,098 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:25:32,098 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:25:32,098 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:25:32,098 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:25:32,098 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:25:32,099 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:25:32,099 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:25:32,099 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:25:32,099 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:25:32,099 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:25:32,099 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:25:32,099 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:25:32,100 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:25:32,100 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:25:32,100 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:25:32,100 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:25:32,101 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:25:32,101 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:25:32,101 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:25:32,101 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:25:32,101 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:25:32,101 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:25:32,101 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:25:32,101 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:25:32,101 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:25:32,101 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:25:32,103 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:25:32,103 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:25:32,103 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:25:32,103 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:25:32,103 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:25:32,103 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:25:32,103 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:25:32,103 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:25:32,103 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:25:32,103 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:25:32,103 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:25:32,103 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:27:10,354 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:27:10,354 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:27:10,357 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:27:10,357 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:27:10,357 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:27:10,357 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:27:10,358 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:27:10,358 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:27:10,358 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:27:10,359 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:27:10,359 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:27:10,359 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:27:10,359 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:27:10,359 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:27:10,359 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:27:10,359 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:27:10,360 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:27:10,360 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:27:10,360 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:27:10,360 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:27:10,361 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:27:10,361 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:27:10,361 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:27:10,361 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:27:10,361 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:27:10,361 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:27:10,361 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:27:10,361 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:27:10,361 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:27:10,361 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:27:10,362 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:27:10,362 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:27:10,362 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:27:10,362 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:27:10,362 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:27:10,362 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:27:10,363 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:27:10,363 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:27:10,363 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:27:10,363 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:27:10,363 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:27:10,363 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:28:14,055 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:28:14,055 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:28:14,056 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:28:14,056 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:28:14,056 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:28:14,056 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:28:14,057 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:28:14,057 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:28:14,057 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:28:14,057 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:28:14,057 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:28:14,057 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:28:14,058 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:28:14,058 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:28:14,058 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:28:14,058 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:28:14,058 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:28:14,058 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:28:14,058 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:28:14,058 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:28:14,059 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:28:14,059 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:28:14,059 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:28:14,059 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:28:14,059 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:28:14,059 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:28:14,059 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:28:14,059 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:28:14,059 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:28:14,059 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:30:41,708 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:30:41,708 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:30:41,708 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:30:41,708 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:30:41,709 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:30:41,709 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:30:41,710 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:30:41,710 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:30:41,710 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:30:41,710 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:30:41,710 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:30:41,710 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:30:41,710 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:30:41,710 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:30:41,710 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:30:41,710 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:30:41,711 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:39:05,051 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:39:05,051 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:39:05,051 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:39:05,051 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:39:05,052 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:39:05,052 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:39:05,052 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:39:05,052 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:39:05,052 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:39:05,052 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:39:05,052 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:39:05,052 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:39:05,053 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:39:05,053 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:39:05,053 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:39:05,053 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:39:05,053 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:39:05,053 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:39:05,053 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:39:05,053 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:39:05,054 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:39:05,054 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:39:05,054 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:39:05,054 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:39:05,054 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:39:05,054 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:39:05,054 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:39:05,054 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:39:05,054 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:39:05,054 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:40:16,739 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:40:16,740 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:40:16,740 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:40:16,740 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:40:16,741 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:40:16,741 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:40:16,741 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:40:16,741 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:40:16,741 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:40:16,741 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:40:16,741 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:40:16,741 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:40:16,742 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:40:16,742 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:40:16,742 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:40:16,742 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:40:16,742 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:40:16,742 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:40:16,742 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:40:16,742 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:40:16,743 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:40:16,743 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:40:16,743 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:40:16,743 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:40:16,743 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:40:16,743 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:40:16,743 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:40:16,743 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:40:16,743 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:40:16,743 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:40:52,279 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:40:52,279 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:40:52,280 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:40:52,280 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:40:52,280 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:40:52,280 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:40:52,281 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:40:52,281 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:40:52,281 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:40:52,281 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:40:52,281 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:40:52,281 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:40:52,282 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:40:52,282 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:40:52,282 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:40:52,282 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:40:52,282 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:40:52,282 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:40:52,282 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:40:52,282 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:40:52,283 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:40:52,283 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:40:52,283 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:40:52,283 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:40:52,283 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:40:52,283 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:40:52,283 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:40:52,283 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:40:52,283 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:40:52,283 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:42:29,828 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:42:29,829 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:42:29,830 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:42:29,830 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:42:29,831 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:42:29,831 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:42:29,832 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:42:29,832 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:42:29,832 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:42:29,832 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:42:29,832 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:42:29,832 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:42:29,834 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:42:29,834 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:42:29,834 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:42:29,834 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:42:29,834 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:42:29,834 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:42:29,834 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:42:29,834 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:42:29,836 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:42:29,836 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:42:29,836 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:42:29,836 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:42:29,836 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:42:29,836 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:42:29,836 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:42:29,836 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:42:29,836 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:42:29,836 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:46:36,141 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:46:36,142 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:46:36,142 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:46:36,142 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:46:36,143 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:46:36,143 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:46:36,143 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:46:36,143 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:46:36,143 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:46:36,144 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:46:36,144 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:46:36,144 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:46:36,144 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:46:36,144 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:46:36,144 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:46:36,144 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:46:36,145 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:46:36,145 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:46:36,145 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:46:36,145 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:46:36,145 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:46:36,145 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:46:36,145 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:46:36,145 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:46:36,145 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:46:36,146 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:46:36,146 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:46:36,146 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:46:36,146 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:46:36,146 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:47:43,691 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:47:43,691 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:48:53,204 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:48:53,204 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:48:53,204 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:48:53,204 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:48:53,205 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:48:53,205 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:48:53,205 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:48:53,205 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:48:53,205 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:48:53,205 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:48:53,205 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:48:53,205 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:48:53,206 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:48:53,206 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:48:53,206 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:48:53,206 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:48:53,207 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:48:53,207 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:48:53,207 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:48:53,207 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:48:53,207 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:48:53,207 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:48:53,207 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:48:53,207 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:48:53,207 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:48:53,208 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:48:53,208 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:48:53,208 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:48:53,208 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:48:53,208 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:49:57,306 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:49:57,307 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:49:57,308 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:49:57,308 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:49:57,309 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:49:57,309 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:49:57,310 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:49:57,310 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:49:57,310 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:49:57,311 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:49:57,311 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:49:57,311 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:49:57,312 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:49:57,312 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:49:57,312 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:49:57,312 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:49:57,312 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:49:57,312 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:49:57,312 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:49:57,312 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:49:57,313 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:49:57,313 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:49:57,313 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:49:57,313 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:49:57,313 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:49:57,313 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:49:57,313 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:49:57,313 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:49:57,313 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:49:57,313 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:50:12,013 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 17:50:12,013 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 17:50:12,014 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:50:12,014 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 17:50:12,014 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:50:12,014 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 17:50:12,015 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:50:12,015 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:50:12,015 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 17:50:12,015 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:50:12,015 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:50:12,015 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 17:50:12,016 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:50:12,016 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:50:12,016 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:50:12,016 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 17:50:12,016 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:50:12,016 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:50:12,016 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:50:12,016 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 17:50:12,018 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:50:12,018 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:50:12,018 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:50:12,018 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:50:12,018 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 17:50:12,018 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:50:12,018 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:50:12,018 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:50:12,018 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 17:50:12,018 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 18:08:35,556 - Single Logging.test.TestSingleLogger - DEBUG - Setting Log Debug Level
+2020-12-31 18:08:35,556 - Single Logging.test.TestSingleLogger - DEBUG - Executed Log in Debug Level
+2020-12-31 18:08:35,557 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 18:08:35,557 - Single Logging.test.TestSingleLogger - INFO - Setting Log Info Level
+2020-12-31 18:08:35,558 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 18:08:35,558 - Single Logging.test.TestSingleLogger - INFO - Executed Log in Info Level
+2020-12-31 18:08:35,558 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 18:08:35,558 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 18:08:35,558 - Single Logging.test.TestSingleLogger - WARNING - Setting Log Warning Level
+2020-12-31 18:08:35,559 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 18:08:35,559 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 18:08:35,559 - Single Logging.test.TestSingleLogger - WARNING - Executed Log in Warning Level
+2020-12-31 18:08:35,559 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 18:08:35,559 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 18:08:35,559 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 18:08:35,559 - Single Logging.test.TestSingleLogger - CRITICAL - Setting Log Critical Level
+2020-12-31 18:08:35,559 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 18:08:35,559 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 18:08:35,559 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 18:08:35,559 - Single Logging.test.TestSingleLogger - CRITICAL - Executed Log in Critical Level
+2020-12-31 18:08:35,560 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 18:08:35,560 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 18:08:35,560 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 18:08:35,560 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 18:08:35,560 - Single Logging.test.TestSingleLogger - ERROR - Setting Log Error Level
+2020-12-31 18:08:35,560 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 18:08:35,560 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 18:08:35,560 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 18:08:35,560 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level
+2020-12-31 18:08:35,560 - Single Logging.test.TestSingleLogger - ERROR - Executed Log in Error Level

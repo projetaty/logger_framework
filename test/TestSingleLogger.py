@@ -1,7 +1,6 @@
 
 from unittest import TestCase
-from utils.SingletonLogger import LoggerManager
-import logging
+
 from logger_multi_modules.SingleLogger import SingleLogger
 
 class TestSingleLogger(TestCase):
@@ -63,7 +62,4 @@ class TestSingleLogger(TestCase):
         return TestCase.doCleanups(self)
 
 
-objA    =   TestSingleLogger()
-objA.setUp()
-objA.testGetCriticalLevel()
 

@@ -7,8 +7,8 @@ Created on 26 de dez de 2020
 import logging
 from utils.FactoryLogger import FactoryLoggerType, LOGGER_TYPES
 
-class LoggerMultModules(object):
-    _name = "looger.multmodules"
+class MultLoggers(object):
+    _name = "mult.loggers"
     
     def __init__(self, logName : str, logLevel : logging, logFile : str, logPath : str):
         try:
@@ -77,6 +77,7 @@ class LoggerMultModules(object):
         except:
             self.logger.exception(Exception)
             raise Exception
+
 
     def getErrorlLevel(self):
         """
