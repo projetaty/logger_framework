@@ -19,7 +19,7 @@ class FactoryLoggerType(object):
     
     types = []
     
-    def _template(self, logName = None, logLevel = None, logFile = None, logPath = None):
+    def _template(self, logName = None, logLevel = None, logPath = None, logFile = None):
         """
         @description: Template method to create logging object
         @author: Sandro Regis Cardoso
@@ -66,20 +66,20 @@ class FactoryLoggerType(object):
                 _description = "Create and return one logging object to record all events \
                                 in a single log file"
                 
-                def getMultModulesLogger(self, logName : str, logLevel : logging,  logFile : str, logPath : str) -> logging:
+                def getMultModulesLogger(self, logName : str, logLevel : logging, logPath : str, logFile : str) -> logging:
                     """
                     @author: Sandro Regis Cardoso
                     @TODO: 
                     @return: object
                     """
                     try:
-                        multLogger = self._template(logName, logLevel, logFile, logPath)
+                        multLogger = self._template(logName, logLevel, logPath, logFile)
                         return multLogger
                     except:
                         raise Exception
                 
                 
-                #def getMultThreadsLogger(self, logName : str, logLevel : logging,  logFile : str, logPath : str) -> logging:
+                #def getMultThreadsLogger(self, logName : str, logLevel : logging, logPath : str, logFile : str) -> logging:
                 #    """
                 #    @author: Sandro Regis Cardoso
                 #    @TODO: 
@@ -87,7 +87,7 @@ class FactoryLoggerType(object):
                 #    """
                 #    try:
                 #        pass
-                #        #multThreads = self.__templateMultThreads(logName, logLevel, logFile, logPath)
+                #        #multThreads = self.__templateMultThreads(logName, logLevel, logPath, logFile)
                 #        return
                 #    except:
                 #        raise Exception

@@ -35,12 +35,16 @@ class LoggerManager(object):
         pass
     
     @staticmethod
-    def getLogger(name=None):
-        if not name:
-            logging.basicConfig()
-            return logging.getLogger()
-        elif name not in LoggerManager._loggers.keys():
-            logging.basicConfig()
-            LoggerManager._loggers[name] = logging.getLogger(str(name))
-        return LoggerManager._loggers[name]
+    def getLogger(name=None) -> object:
+        try:
+            if not name:
+                logging.basicConfig()
+                return logging.getLogger()
+            elif name not in LoggerManager._loggers.keys():
+                logging.basicConfig()
+                LoggerManager._loggers[name] = logging.getLogger(str(name))
+            return LoggerManager._loggers[name]
+        except:
+            raise Exception
+        
 

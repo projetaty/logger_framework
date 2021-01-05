@@ -1,0 +1,45 @@
+2021-01-04 23:56:04,465 - Single Logging.__main__ - INFO - buummmmmwe
+2021-01-05 00:21:13,427 - Single Logging.__main__ - INFO - running method A1
+2021-01-05 00:21:13,427 - Single Logging.__main__ - INFO - running method A1
+2021-01-05 00:21:13,427 - Single Logging.__main__ - INFO - running method A2
+2021-01-05 00:21:13,427 - Single Logging.__main__ - INFO - running method A2
+2021-01-05 00:23:54,758 - Single Logging.__main__ - ERROR - error running method A1 <class 'Exception'>
+
+Traceback (most recent call last):
+  File "/opt/projetos/Django/logger_frameworks/models/ClasseA.py", line 33, in methodA1
+    self.log.info("running method A1")
+AttributeError: 'NoneType' object has no attribute 'info'
+2021-01-05 00:23:54,758 - Single Logging.__main__ - ERROR - error running method A1 <class 'Exception'>
+
+Traceback (most recent call last):
+  File "/opt/projetos/Django/logger_frameworks/models/ClasseA.py", line 33, in methodA1
+    self.log.info("running method A1")
+AttributeError: 'NoneType' object has no attribute 'info'
+2021-01-05 00:27:09,421 - Single Logging.__main__ - INFO - running method A1
+2021-01-05 00:27:09,422 - Single Logging.__main__ - INFO - running method A2
+2021-01-05 00:29:39,128 - Single Logging.__main__ - INFO - running method A1
+2021-01-05 00:29:39,128 - Single Logging.__main__ - ERROR - error running method A2 <class 'Exception'>
+
+Traceback (most recent call last):
+  File "/opt/projetos/Django/logger_frameworks/models/ClasseA.py", line 48, in methodA2
+    self.logS.info("running method A2")
+AttributeError: 'ClasseA' object has no attribute 'logS'
+2021-01-05 00:30:36,100 - Single Logging.__main__ - INFO - running method A1
+2021-01-05 00:30:36,100 - Single Logging.__main__ - ERROR - error running method A2 <class 'Exception'>
+
+Traceback (most recent call last):
+  File "/opt/projetos/Django/logger_frameworks/models/ClasseA.py", line 48, in methodA2
+    self.logS.info("running method A2")
+AttributeError: 'ClasseA' object has no attribute 'logS'
+2021-01-05 00:32:26,391 - Single Logging.__main__ - ERROR - error running method A2 <class 'Exception'>
+
+Traceback (most recent call last):
+  File "/opt/projetos/Django/logger_frameworks/models/ClasseA.py", line 51, in methodA2
+    self.logS.info("running method A2")
+AttributeError: 'ClasseA' object has no attribute 'logS'
+2021-01-05 00:32:26,391 - Single Logging.__main__ - ERROR - error running method A2 <class 'Exception'>
+
+Traceback (most recent call last):
+  File "/opt/projetos/Django/logger_frameworks/models/ClasseA.py", line 51, in methodA2
+    self.logS.info("running method A2")
+AttributeError: 'ClasseA' object has no attribute 'logS'

@@ -9,7 +9,7 @@ class TestSingleLogger(TestCase):
     
     def setUp(self):
         try:
-            self.log = SingleLogger(("%s.%s" %("Single Logging", __name__)), 0, "unified_logger.log", "../log/global/")
+            self.log = SingleLogger(("%s.%s" %("Single Logging", __name__)), 0, "../log/global/", "unified_logger.log")
             self.assertIsInstance(self.log, SingleLogger, "Singleton Logger criado com sucesso")
         except:
             raise Exception

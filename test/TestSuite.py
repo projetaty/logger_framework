@@ -1,14 +1,15 @@
 
-import unittest
-from unittest import TestSuite
-
-from test.TestSingleLogger import TestSingleLogger
-from test.TestMultLogger import TestMultLogger
 
 """
 @TODO: Make this suite a little bit more elegant
 @author: Sandro Regis Cardoso | Engenheiro de Software
 """
+import unittest
+from unittest import TestSuite
+
+from test.TestSingleLogger import TestSingleLogger
+from test.TestMultLogger import TestMultLogger
+from test.TestClassA import TestClasseA
 
 
 def suiteTestSingleLogger():
@@ -19,6 +20,14 @@ def suiteTestSingleLogger():
     suite.addTest(TestSingleLogger('testGetWarningLevel'))
     suite.addTest(TestSingleLogger('testGetCriticalLevel'))
     suite.addTest(TestSingleLogger('testGetErrorLevel'))
+    return suite
+
+
+def suiteTestClassSingleLogger():
+    suite = TestSuite()
+    print("\nSuite Test running Unified Logger with Class Model (Singleton Pattern):")
+    suite.addTest(TestClasseA('testmethodA1'))
+    suite.addTest(TestClasseA('testmethodA2'))
     return suite
 
 
@@ -40,7 +49,10 @@ if __name__ == '__main__':
     runner = unittest.TextTestRunner()
     
     #TestSingleLogger
-    runner.run(suiteTestSingleLogger())
+    #runner.run(suiteTestSingleLogger())
+    
+    #TestClassA
+    runner.run(suiteTestClassSingleLogger())
     
     #TestMultLogger
-    runner.run(suiteTestMultLogger())
+    #runner.run(suiteTestMultLogger())

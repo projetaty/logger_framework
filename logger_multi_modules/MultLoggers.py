@@ -1,6 +1,5 @@
 '''
 Created on 26 de dez de 2020
-
 @author: samurai
 '''
 
@@ -10,11 +9,11 @@ from utils.FactoryLogger import FactoryLoggerType, LOGGER_TYPES
 class MultLoggers(object):
     _name = "mult.loggers"
     
-    def __init__(self, logName : str, logLevel : logging, logFile : str, logPath : str):
+    def __init__(self, logName : str, logLevel : logging, logPath : str, logFile : str):
         try:
             logType = FactoryLoggerType()
             logInstance = logType.createLogger(LOGGER_TYPES[0])
-            self.logger = logInstance.getMultModulesLogger(logName = logName, logLevel = logLevel, logFile = logFile, logPath = logPath)
+            self.logger = logInstance.getMultModulesLogger(logName = logName, logLevel = logLevel, logPath = logPath, logFile = logFile)
         except:
             raise Exception
     

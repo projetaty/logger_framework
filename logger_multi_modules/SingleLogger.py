@@ -10,11 +10,12 @@ from utils.SingletonLogger import LoggerManager
 class SingleLogger(object):
     _name = "single.looger"
     
-    def __init__(self, logName : str, logLevel : logging, logFile : str, logPath : str):
+    
+    def __init__(self, logName : str, logLevel : logging, logPath : str, logFile : str):
         try:
             self.logger = LoggerManager.getLogger(logName)
             self.logger.setLevel(logLevel)
-            objFileHandler = logging.FileHandler("%s%s" %(logPath, logFile)) #'../log/global/unified_logger.log')
+            objFileHandler = logging.FileHandler("%s%s" %(logPath, logFile))
             logFormat = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
             objFileHandler.setFormatter(logFormat)
             self.logger.addHandler(objFileHandler)
@@ -30,8 +31,9 @@ class SingleLogger(object):
         @return: Boolean
         """
         try:
-            self.logger.setLevel(logging.INFO)
-            self.logger.info("Setting Log Info Level")
+            level = self.logger.setLevel(logging.INFO)
+            self.logger.info("\t\tSetting Log to Info  Level")
+            return level
         except:
             #self.logger.exception(Exception)
             raise Exception
@@ -46,7 +48,7 @@ class SingleLogger(object):
         """
         try:
             self.logger.setLevel(logging.DEBUG)
-            self.logger.debug('Setting Log Debug Level')
+            self.logger.debug('\t\tSetting Log to Debug Level')
         except:
             self.logger.exception(Exception)
             raise Exception
@@ -61,7 +63,7 @@ class SingleLogger(object):
         """
         try:
             self.logger.setLevel(logging.WARNING)
-            self.logger.warning('Setting Log Warning Level')
+            self.logger.warning('\tSetting Log to Warning  Level')
         except:
             self.logger.exception(Exception)
             raise Exception
@@ -76,7 +78,7 @@ class SingleLogger(object):
         """
         try:
             self.logger.setLevel(logging.CRITICAL)
-            self.logger.critical('Setting Log Critical Level')
+            self.logger.critical('\tSetting Log to Critical Level')
         except:
             self.logger.exception(Exception)
             raise Exception
@@ -90,9 +92,17 @@ class SingleLogger(object):
         """
         try:
             self.logger.setLevel(logging.ERROR)
-            self.logger.error('Setting Log Error Level')
+            self.logger.error('\t\tSetting Log to Error Level')
         except:
             self.logger.exception(Exception)
             raise Exception
 
 
+"""  
+sl = SingleLogger(("%s.%s" %("\tSingle Logging", __name__)), logging.INFO, logPath = "../log/global/", logFile = "test_classeAB_logger.log")
+sl.getWarningLevel()
+sl.getCriticalLevel()
+sl.getDebugLevel()
+sl.getInfoLevel()
+sl.getErrorlLevel()
+"""
