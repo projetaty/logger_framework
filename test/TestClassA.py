@@ -1,33 +1,33 @@
+#!/usr/bin/python3.7
+
 import unittest
 from unittest import TestCase
 
 from models.ClasseA import ClasseA
+import os
 
 class TestClasseA(TestCase):
-
-    def setUp(self):
-        try:
-            self.objA = ClasseA()
-        except:
-            raise Exception
     
-
-    def tearDown(self):
-        del(self.objA)
-
-    def testmethodA1(self):
+    objA = ClasseA()
+    
+    
+    def testMethodA1(self):
         try:
             self.objA.methodA1()
         except:
             raise Exception
-        
     
-    def testmethodA2(self):
+    
+    def testMethodA2(self):
         try:
             self.objA.methodA2()
         except:
             raise Exception
-        
-
-if __name__ == '__main__':
-    unittest.main()
+    
+    
+    def testMethodAB(self):
+        try:
+            self.objA.methodAB()
+        except:
+            raise Exception
+    

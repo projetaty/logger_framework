@@ -1,0 +1,12 @@
+2021-01-05 03:28:54,684 - Single Logging.models.ClasseB - INFO - running method B1
+2021-01-05 03:28:54,684 - Single Logging.models.ClasseB - INFO - running method B1
+2021-01-05 03:28:54,684 - Single Logging.models.ClasseB - INFO - running method B2
+2021-01-05 03:28:54,684 - Single Logging.models.ClasseB - INFO - running method B2
+2021-01-05 03:32:17,507 - Single Logging.models.ClasseB - INFO - running method B1
+2021-01-05 03:32:17,507 - Single Logging.models.ClasseB - INFO - running method B1
+2021-01-05 03:32:17,507 - Single Logging.models.ClasseB - INFO - running method B2
+2021-01-05 03:32:17,507 - Single Logging.models.ClasseB - INFO - running method B2
+2021-01-05 03:36:18,810 - Single Logging.models.ClasseB - INFO - running method B1
+2021-01-05 03:36:18,810 - Single Logging.models.ClasseB - INFO - running method B1
+2021-01-05 03:36:18,810 - Single Logging.models.ClasseB - INFO - running method B2
+2021-01-05 03:36:18,810 - Single Logging.models.ClasseB - INFO - running method B2

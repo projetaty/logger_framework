@@ -16,8 +16,36 @@ class ClasseB(object):
         @author: Sandro Regis Cardoso
         """
         try:
-            self.logB = SingleLogger(("%s.%s" %("Single Logging Mult Modules", __name__)), logging.INFO, "../log/global/", "classeB_logger.log").logger
-            self.logErrorB = SingleLogger(("%s.%s" %("Single Logging Mult Modules", __name__)), logging.ERROR, "../log/global/", "classeB_logger.log").logger
+            self.log = SingleLogger(("%s.%s" %("Single Logging", __name__)), 0, "../log/global/", "classeB_logger.log").logger
+            
+            self.logERROR = SingleLogger(("%s.%s" %("Single Logging", __name__)), 0, "../log/global/", "classeB_logger.log").logger
+            self.logERROR.setLevel(logging.ERROR)
+        except:
+            raise Exception
+    
+    def methodBA(self):
+        try:
+            self.log = SingleLogger(("%s.%s" %("Single Logging AB", __name__)), 0, "../log/global/", "classeAB_logger.log").logger
+            
+            self.log.setLevel(logging.INFO)
+            self.log.info("....running INFO LEVEL on method BA")
+            
+            
+            self.log.setLevel(logging.DEBUG)
+            self.log.debug("....running DEBUG LEVEL on method BA")
+            
+            
+            self.log.setLevel(logging.CRITICAL)
+            self.log.critical("....running CRITICAL LEVEL on method BA")
+            
+            
+            self.log.setLevel(logging.WARNING)
+            self.log.warning("....running WARNING LEVEL on method BA")
+            
+            
+            self.log.setLevel(logging.ERROR)
+            self.log.error("....running ERROR LEVEL on method BA")
+            
         except:
             raise Exception
     
@@ -26,25 +54,27 @@ class ClasseB(object):
         """
         Description: Dummy method for class B
         @author: Sandro Regis Cardoso
-        @TODO: 
         @return: Boolean
+        @TODO: 
         """
         try:
-            self.logB.info("running method B1")
+            self.log.setLevel(logging.INFO)
+            self.log.info("running method B1")
         except:
-            self.logErrorB.exception("error running method B1 %s\n\n" %Exception)
+            self.logERROR.exception("error running method B1 %s\n\n" %Exception)
             raise Exception
     
     def methodB2(self):
         """
         Description: Dummy method for class B
         @author:   Sandro Regis Cardoso
-        @TODO:     
         @return:   Boolean
+        @TODO:     
         """
         try:
-            self.logB.info("running method B2")
+            self.log.setLevel(logging.INFO)
+            self.log.info("running method B2")
         except:
-            self.logErrorB.exception("error running method B2 %s\n\n" %Exception)
+            self.logERROR.exception("error running method B2 %s\n\n" %Exception)
             raise Exception
-        
+
