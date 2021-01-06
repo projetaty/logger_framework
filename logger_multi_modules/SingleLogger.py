@@ -5,10 +5,13 @@ Created on 26 de dez de 2020
 '''
 
 import logging
+import logging.handlers as handlers
 from utils.SingletonLogger import LoggerManager
+import datetime
+import time
 
 class SingleLogger(object):
-    _name = "single.looger"
+    _name = "single.logger"
     
     
     def __init__(self, logName : str, logLevel : logging, logPath : str, logFile : str):
@@ -19,6 +22,11 @@ class SingleLogger(object):
             logFormat = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
             objFileHandler.setFormatter(logFormat)
             self.logger.addHandler(objFileHandler)
+            
+            """objTimeRotate  = handlers.TimedRotatingFileHandler(logFile, when="M", interval=1, atTime=datetime.time())
+            current_time = int(time.time())
+            rollover_time = objTimeRotate.computeRollover(current_time)
+            self.logger.addHandler(rollover_time)"""
         except:
             raise Exception
     
